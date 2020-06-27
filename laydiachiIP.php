@@ -1,7 +1,7 @@
-<html>
+﻿<html>
    
    <head>
-      <title>Lấy địa chỉ Client IP trong PHP</title>
+      <title>Lấy địa chỉ Client IP trong P</title>
    </head>
    <body>
    
